@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-ts",
+  "version": "1.0.0",
+  "description": "A NodeJs Typescript starter project.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odiazjs/nodejs-ts.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Typescript",
+    "Node",
+    "Ts"
+  ],
+  "author": "odiaz.dw@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odiazjs/nodejs-ts/issues"
+  },
+  "homepage": "https://github.com/odiazjs/nodejs-ts#readme",
+  "dependencies": {
+    "@types/es6-shim": "^0.31.37",
+    "@types/express": "^4.16.0",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
